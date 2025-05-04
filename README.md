@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debojyoti Das</h1>
-<h3 align="center">Aspiring SWE & ML learner || JAVA-DSA</h3>
+<h3 align="center">Full Stack Developer || JAVA-DSA || ML learner || Aspiring SDE-Intern</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debojyoti909&label=Profile%20views&color=0e75b6&style=flat" alt="debojyoti909" /> </p>
 
